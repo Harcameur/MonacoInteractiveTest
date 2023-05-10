@@ -1,5 +1,4 @@
 import './assets/main.css'
-import monaco from "monaco-editor";
 
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
